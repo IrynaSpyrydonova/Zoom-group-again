@@ -85,12 +85,53 @@ __As a site visitor, I want to learn more about *Yared*__
 
 ---
 
-> ... one step per team member ...
+
+## 4. Introduce _Iryna_
+
+> assigned to Iryna
+
+__As a site visitor, I want to learn more about *Iryna*__
+
+### Repo
+
+- [ ] developed on a branch named `iryna`
+
+### team-member-name.md
+
+- [ ] create the file
+- [ ] add their name as the main title
+- [ ] write a paragraph introduction
+- [ ] create a link back to the README
+
+### README.md
+
+- [ ] change their list item into a link
+
+
 
 ---
 
 ## X. Finishing Touches
 
-> assigned to _
+> assigned to Louise
 
 __As a perfectionist, I want everything perfect :)__
+
+                     /\    .-" /
+                    /  ; .'  .' 
+                   :   :/  .'   
+                    \  ;-.'     
+       .--""""--..__/     `.    
+     .'           .'    `o  \   
+    /                    `   ;  
+   :                  \      :  
+ .-;        -.         `.__.-'  
+:  ;          \     ,   ;       
+'._:           ;   :   (        
+    \/  .__    ;    \   `-.     
+     ;     "-,/_..--"`-..__)    
+     '""--.._:
+
+
+
+

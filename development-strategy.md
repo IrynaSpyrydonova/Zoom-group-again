@@ -85,6 +85,27 @@ __As a site visitor, I want to learn more about *Yared*__
 
 ---
 
+## 6. Introduce Eltayeb
+
+> assigned to Yared
+
+__As a site visitor, I want to learn more about *Eltayeb*__
+
+### Repo
+
+- [ ] developed on a branch named `Eltayeb`
+
+### team-member-name.md
+
+- [ ] create the file
+- [ ] add their name as the main title
+- [ ] write a paragraph introduction
+- [ ] create a link back to the README
+
+### README.md
+
+- [ ] change their list item into a link
+
 > ... one step per team member ...
 
 ---

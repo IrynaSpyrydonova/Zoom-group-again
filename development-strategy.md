@@ -91,6 +91,25 @@ __As a site visitor, I want to learn more about *Yared*__
 
 ## X. Finishing Touches
 
-> assigned to _
+> assigned to Louise
 
 __As a perfectionist, I want everything perfect :)__
+
+                     /\    .-" /
+                    /  ; .'  .' 
+                   :   :/  .'   
+                    \  ;-.'     
+       .--""""--..__/     `.    
+     .'           .'    `o  \   
+    /                    `   ;  
+   :                  \      :  
+ .-;        -.         `.__.-'  
+:  ;          \     ,   ;       
+'._:           ;   :   (        
+    \/  .__    ;    \   `-.     
+     ;     "-,/_..--"`-..__)    
+     '""--.._:
+
+
+
+

@@ -15,11 +15,15 @@ We love working together, we help each other and think the development is a chan
 
 1. [Eltayeb](Eltayeb.md)
 
-1. [Yildiray]()
+1. [Yildiray](./yildiray.md)
 
-1. [Iryna]()
+1. [Iryna](Iryna.md)
 
 1. [Yared]()
+
+
+
+
 
 * Occasionally we have Louisa and Joel!
 

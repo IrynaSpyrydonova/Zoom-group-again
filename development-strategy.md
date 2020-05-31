@@ -85,6 +85,7 @@ __As a site visitor, I want to learn more about *Yared*__
 
 ---
 
+
 ## 6. Introduce Eltayeb
 
 > assigned to Yared
@@ -94,6 +95,18 @@ __As a site visitor, I want to learn more about *Eltayeb*__
 ### Repo
 
 - [ ] developed on a branch named `Eltayeb`
+
+
+## 4. Introduce _Iryna_
+
+> assigned to Iryna
+
+__As a site visitor, I want to learn more about *Iryna*__
+
+### Repo
+
+- [ ] developed on a branch named `iryna`
+
 
 ### team-member-name.md
 
@@ -106,12 +119,33 @@ __As a site visitor, I want to learn more about *Eltayeb*__
 
 - [ ] change their list item into a link
 
+
 > ... one step per team member ...
+
 
 ---
 
 ## X. Finishing Touches
 
-> assigned to _
+> assigned to Louise
 
 __As a perfectionist, I want everything perfect :)__
+
+                     /\    .-" /
+                    /  ; .'  .' 
+                   :   :/  .'   
+                    \  ;-.'     
+       .--""""--..__/     `.    
+     .'           .'    `o  \   
+    /                    `   ;  
+   :                  \      :  
+ .-;        -.         `.__.-'  
+:  ;          \     ,   ;       
+'._:           ;   :   (        
+    \/  .__    ;    \   `-.     
+     ;     "-,/_..--"`-..__)    
+     '""--.._:
+
+
+
+
